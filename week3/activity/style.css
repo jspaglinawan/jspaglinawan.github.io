@@ -1,0 +1,91 @@
+body{
+    background-color: #16365d;
+    font-family: 'Arial', sans-serif;
+}
+h1{
+    color:white;
+}
+h3{
+    color:yellow;
+    border-bottom: 1px solid yellow;
+    width: 25%;
+    text-align: 25%;
+}
+.h11{
+    color:red;
+    text-align: center;
+}
+p{
+    color:white;
+}
+.insert{
+    text-align: right;
+}
+.p1{
+    color:white;
+}
+ul{
+    color:white;
+}
+.tables{
+    color:red;
+}
+.footers{
+    color: rgb(255, 0, 255);
+}
+.span1{
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.span2{
+    color:yellow;
+    text-decoration: underline;
+}.span3{
+    color:blue;
+    font-weight: bold;
+}
+.span4{
+    color:rgb(7, 253, 7);
+    font-weight: bold;
+}
+.formatText{
+    background-color: black;
+    padding-bottom: 30px;
+    border:1px solid red;
+    width: 50%;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+}
+.directly{
+    color:blue;
+    font-style: italic;
+}
+.theme{
+    color:red;
+    font-weight: bold;
+}
+.galleries{
+    color:rgb(0, 0, 0);
+    background-color: rgb(81, 255, 0);
+    font-weight: bold;
+}
+.controls{
+    color: rgb(81, 255, 0);
+}
+.mostControls{
+    background-color: black;
+    font-style: italic;
+    border-left:1px solid red;
+    border-right:1px solid rgb(157, 255, 0);
+}
+.insertTab{
+    background-color: red;
+}
+.you{
+    text-align-last:right;
+    text-indent: 20px;
+}
+.pageLayout{
+    text-align: right;
+}

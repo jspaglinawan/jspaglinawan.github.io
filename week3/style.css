@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+body{
+    background-color: chartreuse;
+    background-image: url("images/monkey.png");
+    background-position: 10px;
+    background-size: cover;
+}
+h1{
+    color: yellowgreen;
+    font-size: 50px;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 200px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Bungee Shade", sans-serif;
+}
+p{
+    color: rgb(233, 161, 6);
+    font-size: 1.2em;
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 3px dashed rgb(228, 10, 155);
+}
+.p1{
+    color:rgb(226, 39, 6);
+    font-size: 1.2em;
+    font-style: italic;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(8, 235, 64);
+    font-weight: bold;
+    border: 3px dashed rgb(77, 9, 236);
+    border-radius: 20px;
+}
+.p1span{
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: 4px 3px 5px rgba(9, 100, 1, 0.5);
+}
