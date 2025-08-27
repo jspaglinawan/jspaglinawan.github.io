@@ -1,0 +1,39 @@
+.card{
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 7px 7px 8px 0;
+    margin: 20px;
+}
+.card:hover{
+    box-shadow: 7px 7px 8px skyblue;
+}
+h2,p{
+    margin: 0px;
+}
+.container{
+    display:flex;
+    gap: 20px;
+}
+p{
+    margin-bottom: 10px;
+}
+.card-header{
+    display: flex;
+    margin-bottom: 10px;
+    padding-bottom :10px;
+    border-bottom: 1px solid black;
+}
+.btn{
+    border: none;
+    background:rgb(86, 86, 86);
+    color: white;
+    padding: 10px;
+    border-radius: 100px;
+}
+.btn:hover{
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(242, 242, 242, 1) 50%, rgba(42, 123, 155, 1) 100%);
+    cursor: pointer;
+    color:black;
+}
